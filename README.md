@@ -22,4 +22,4 @@ Please fork this repo
 
 ### Copyright
 
-2023 Git. Training
+2023 Git. Training. All right reserved
