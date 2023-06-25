@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Will K	Will@nowhere.net	@twitterhandle
+
 # THANKS
 
-    <name>
+    Thanks you my teacher
 
 # TECHNOLOGY COLOPHON
 
