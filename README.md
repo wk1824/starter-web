@@ -15,6 +15,9 @@ yup (I love dog)
 ## Hoof
 nope (I dont have horse)
 
+## How to contrib
+
+Please fork this repo 
 
 ### Copyright
 
