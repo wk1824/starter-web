@@ -14,3 +14,8 @@ yup
 yup (I love dog)
 ## Hoof
 nope (I dont have horse)
+
+
+### Copyright
+
+2023 Git. Training
