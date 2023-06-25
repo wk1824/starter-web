@@ -11,6 +11,6 @@ nope
 ## Goof
 yup
 ## Woof
-yup
+yup (I love dog)
 ## Hoof
-nope
+nope (I dont have horse)
